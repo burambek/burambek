@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @burambek
+- 👋 Hi, I’m @highteku
 - 👀 I’m interested in QA, JS , Web
-- 🌱 I’m currently learning Git, JIRA, Cypress, JS
+- 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me  - hightekuprod@gmail.com
 
